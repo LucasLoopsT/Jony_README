@@ -38,9 +38,9 @@
 
 <div align="center">
   
-[![My Langs](https://skillicons.dev/icons?i=js,html,c,cpp,cs)](https://skillicons.dev)
+[![My Langs](https://skillicons.dev/icons?i=js,ts,html,c)](https://skillicons.dev)
 
-[![My Langs](https://skillicons.dev/icons?i=py,)](https://skillicons.dev)
+[![My Langs](https://skillicons.dev/icons?i=py,cpp,cs,java)](https://skillicons.dev)
 
 </div>
 
@@ -50,9 +50,9 @@
 
 <div align="center">
 
-[![My IDE's](https://skillicons.dev/icons?i=visualstudio,vscode,unity,unreal)](https://skillicons.dev)
+[![My IDE's](https://skillicons.dev/icons?i=visualstudio,vscode,vim,unity,unreal,eclipse)](https://skillicons.dev)
 
-[![My Tools](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=github,git,nodejs,react,figma,firebase)](https://skillicons.dev)
 </div>
 <br><br>  
     </td>
