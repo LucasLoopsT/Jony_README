@@ -55,3 +55,12 @@ Experienced with projects in computer vision, image processing, NLP (natural lan
     </td>
   </tr>
 </table>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rounded&color=036564&height=100&text=Status&fontSize=40&fontAlign=83&fontAlignY=60&fontColor=fff">
+<div align="center">
+<img height="230em" alt="Jonyzim's streak" src="https://streak-stats.demolab.com/?user=Jonyzim&theme=transparent"/>
+</div>
+
+
